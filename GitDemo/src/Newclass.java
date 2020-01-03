@@ -5,6 +5,7 @@ public class Newclass {
 	
 		//code is running fast 
 		//pass 
+		//fail
 	}
 
 }
